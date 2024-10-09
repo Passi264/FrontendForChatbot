@@ -30,8 +30,8 @@ st.markdown(
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 450px;
-        height: 500px;
+        width: 800px;
+        height: 200px;
         border: none;
     }
     </style>
