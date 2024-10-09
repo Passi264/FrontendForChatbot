@@ -31,7 +31,7 @@ st.markdown(
         margin-left: auto;
         margin-right: auto;
         width: 800px;
-        height: 200px;
+        height: 400px;
         border: none;
     }
     </style>
@@ -51,8 +51,8 @@ st.markdown('<div class="subtitle-container"><h2>Use it to convert currency in r
 st.markdown("""
 <iframe
 allow="microphone;"
-width="350"
-height="430"
+width="800"
+height="400"
 src="https://console.dialogflow.com/api-client/demo/embedded/26e691ee-8def-4a70-a4a9-01b0084ba3e1">
 </iframe>
 """, unsafe_allow_html=True)
